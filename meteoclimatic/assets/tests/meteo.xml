@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<meteodata version="0.1">
+ <description>Meteoclimatic - XML</description>
+ <link>http://meteoclimatic.net/</link>
+ <copyright>Creative Commons - Attribution-NonCommercial-NoDerivs 3.0 Unported</copyright>
+ <ttl>60</ttl>
+ <pubDate>Mon, 18 Sep 2017 13:29:34 +0000</pubDate>
+ <docs>http://meteoclimatic.net/index/wp/xml_es.html</docs>
+ <stations>
+  <pubDate>Mon, 18 Sep 2017 13:29:34 +0000</pubDate>  <station>
+   <id>ESCAT0800000008301F</id>
+   <location>Matar&#243; - Port</location>
+   <homepage></homepage>
+   <datasheet>http://www.meteoclimatic.net/perfil/ESCAT0800000008301F</datasheet>
+   <author></author>
+   <pubDate>Mon, 18 Sep 2017 13:20:00 +0000</pubDate>
+   <QOS>1</QOS>
+   <stationdata>
+    <temperature>
+     <unit>C</unit>
+     <now>19.1</now>
+     <max>20.2</max>
+     <min>17.6</min>
+    </temperature>
+    <humidity>
+     <unit>%</unit>
+     <now>75</now>
+     <max>79</max>
+     <min>63</min>
+    </humidity>
+    <barometre>
+     <unit>hPa</unit>
+     <now>1015.6</now>
+     <max>1017.6</max>
+     <min>1015.4</min>
+    </barometre>
+    <wind>
+     <unit>kmh</unit>
+     <now>29</now>
+     <azimuth>86</azimuth>
+     <max>34</max>
+    </wind>
+    <rain>
+     <unit>mm</unit>
+     <total>3.0</total>
+    </rain>
+   </stationdata>
+  </station> </stations>
+</meteodata>
